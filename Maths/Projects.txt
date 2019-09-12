@@ -1,3 +1,5 @@
 To Do:
 
+Euclidian Algorithm
 Prime Number Finder
+Relatively Prime Numbers
